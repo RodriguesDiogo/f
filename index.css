@@ -1,0 +1,21 @@
+@import 'background_color.css';
+@import 'background_color_gradient.css';
+@import 'background_image.css';
+
+@import 'border.css';
+@import 'height.css';
+@import 'margin.css';
+@import 'padding.css';
+@import 'width.css';
+
+@import 'pdisplay_block.css';
+@import 'display_inline.css';
+@import 'display_flex.css';
+@import 'display_grid.css';
+
+@import 'font_family.css';
+@import 'font_size.css';
+@import 'font_weight.css';
+@import 'font_color.css';
+@import 'font_style.css';
+@import 'font_align.css';

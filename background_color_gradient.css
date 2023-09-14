@@ -1,0 +1,35 @@
+/* 
+    Background Gradient Colors
+    Feel free to add more to fulfill your project's needs.
+*/
+
+.bg-g-1 { background: linear-gradient(to right, #FF3E3E, #FF6B6B); }
+.bg-g-2 { background: linear-gradient(to right, #FFD700, #FF6347); }
+.bg-g-3 { background: linear-gradient(to right, #00CED1, #4682B4); }
+.bg-g-4 { background: linear-gradient(to right, #FFA07A, #FA8072); }
+.bg-g-5 { background: linear-gradient(to right, #1E90FF, #00BFFF); }
+.bg-g-6 { background: linear-gradient(to right, #ADFF2F, #32CD32); }
+.bg-g-7 { background: linear-gradient(to right, #FF4500, #FF6347); }
+.bg-g-8 { background: linear-gradient(to right, #00FFFF, #008B8B); }
+.bg-g-9 { background: linear-gradient(to right, #FF69B4, #FF1493); }
+.bg-g-10 { background: linear-gradient(to right, #20B2AA, #008080); }
+.bg-g-11 { background: linear-gradient(to right, #87CEEB, #4682B4); }
+.bg-g-12 { background: linear-gradient(to right, #00FF7F, #3CB371); }
+.bg-g-13 { background: linear-gradient(to right, #B0E0E6, #5F9EA0); }
+.bg-g-14 { background: linear-gradient(to right, #F08080, #CD5C5C); }
+.bg-g-15 { background: linear-gradient(to right, #9370DB, #6A5ACD); }
+.bg-g-16 { background: linear-gradient(to right, #FFE4E1, #FFB6C1); }
+.bg-g-17 { background: linear-gradient(to right, #FF6347, #DC143C); }
+.bg-g-18 { background: linear-gradient(to right, #00FF00, #008000); }
+.bg-g-19 { background: linear-gradient(to right, #8A2BE2, #4B0082); }
+.bg-g-20 { background: linear-gradient(to right, #E6E6FA, #D8BFD8); }
+.bg-g-21 { background: linear-gradient(to right, #DDA0DD, #9370DB); }
+.bg-g-22 { background: linear-gradient(to right, #FF1493, #C71585); }
+.bg-g-23 { background: linear-gradient(to right, #20B2AA, #008080); }
+.bg-g-24 { background: linear-gradient(to right, #98FB98, #008000); }
+.bg-g-25 { background: linear-gradient(to right, #7B68EE, #483D8B); }
+.bg-g-26 { background: linear-gradient(to right, #32CD32, #228B22); }
+.bg-g-27 { background: linear-gradient(to right, #FA8072, #CD5C5C); }
+.bg-g-28 { background: linear-gradient(to right, #E9967A, #FF4500); }
+.bg-g-29 { background: linear-gradient(to right, #9370DB, #8A2BE2); }
+.bg-g-30 { background: linear-gradient(to right, #40E0D0, #20B2AA); }

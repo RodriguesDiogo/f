@@ -1,0 +1,255 @@
+/* 
+    Border Styles
+    
+    To make custom style border you can make your own like this simple example
+    .example-custom-border-1{ border-top-style: dotted; border-right-style: solid; border-bottom-style: dotted; border-left-style: solid; }
+*/
+
+.b-s-dotted{border-style: dotted;}
+.b-s-dashed{border-style: dashed;}
+.b-s-solid{border-style: solid;}
+.b-s-double{border-style: double;}
+.b-s-groove{border-style: groove;}
+.b-s-ridge{border-style: ridge;}
+.b-s-inset{border-style: inset;}
+.b-s-outset{border-style: outset;}
+.b-s-none{border-style: none;}
+.b-s-hidden{border-style: hidden;}
+
+/* 
+    Border Color
+*/
+
+.b-c-aqua { border-color: aqua; }
+.b-c-black { border-color: black; }
+.b-c-blue { border-color: blue; }
+.b-c-fuchsia { border-color: fuchsia; }
+.b-c-gray { border-color: gray; }
+.b-c-green { border-color: green; }
+.b-c-lime { border-color: lime; }
+.b-c-maroon { border-color: maroon; }
+.b-c-navy { border-color: navy; }
+.b-c-olive { border-color: olive; }
+.b-c-purple { border-color: purple; }
+.b-c-red { border-color: red; }
+.b-c-silver { border-color: silver; }
+.b-c-teal { border-color: teal; }
+.b-c-yellow { border-color: yellow; }
+.b-c-orange { border-color: orange; }
+.b-c-cyan { border-color: cyan; }
+.b-c-pink { border-color: pink; }
+.b-c-violet { border-color: violet; }
+.b-c-indigo { border-color: indigo; }
+.b-c-salmon { border-color: salmon; }
+.b-c-turquoise { border-color: turquoise; }
+.b-c-lavender { border-color: lavender; }
+.b-c-gold { border-color: gold; }
+.b-c-magenta { border-color: magenta; }
+.b-c-beige { border-color: beige; }
+.b-c-crimson { border-color: crimson; }
+.b-c-orchid { border-color: orchid; }
+.b-c-slateblue { border-color: slateblue; }
+.b-c-springgreen { border-color: springgreen; }
+.b-c-coral { border-color: coral; }
+.b-c-sienna { border-color: sienna; }
+.b-c-chocolate { border-color: chocolate; }
+.b-c-tomato { border-color: tomato; }
+.b-c-slategray { border-color: slategray; }
+.b-c-royalblue { border-color: royalblue; }
+.b-c-mediumseagreen { border-color: mediumseagreen; }
+.b-c-darkorange { border-color: darkorange; }
+.b-c-darkslategray { border-color: darkslategray; }
+.b-c-darkviolet { border-color: darkviolet; }
+.b-c-ivory { border-color: ivory; }
+.b-c-moccasin { border-color: moccasin; }
+.b-c-papayawhip { border-color: papayawhip; }
+.b-c-rosybrown { border-color: rosybrown; }
+.b-c-slategray { border-color: slategray; }
+.b-c-thistle { border-color: thistle; }
+.b-c-wheat { border-color: wheat; }
+.b-c-lightsalmon { border-color: lightsalmon; }
+.b-c-lightcoral { border-color: lightcoral; }
+.b-c-lightpink { border-color: lightpink; }
+.b-c-cornsilk { border-color: cornsilk; }
+.b-c-burlywood { border-color: burlywood; }
+.b-c-darkgoldenrod { border-color: darkgoldenrod; }
+.b-c-olivedrab { border-color: olivedrab; }
+.b-c-steelblue { border-color: steelblue; }
+.b-c-mediumturquoise { border-color: mediumturquoise; }
+.b-c-mediumorchid { border-color: mediumorchid; }
+.b-c-mediumslateblue { border-color: mediumslateblue; }
+.b-c-mediumspringgreen { border-color: mediumspringgreen; }
+.b-c-mediumaquamarine { border-color: mediumaquamarine; }
+.b-c-mediumvioletred { border-color: mediumvioletred; }
+.b-c-midnightblue { border-color: midnightblue; }
+.b-c-navajowhite { border-color: navajowhite; }
+.b-c-lightseagreen { border-color: lightseagreen; }
+.b-c-lightslategray { border-color: lightslategray; }
+.b-c-lightsteelblue { border-color: lightsteelblue; }
+.b-c-lightyellow { border-color: lightyellow; }
+.b-c-limegreen { border-color: limegreen; }
+.b-c-mediumseagreen { border-color: mediumseagreen; }
+.b-c-mediumspringgreen { border-color: mediumspringgreen; }
+.b-c-mediumvioletred { border-color: mediumvioletred; }
+.b-c-midnightblue { border-color: midnightblue; }
+.b-c-mistyrose { border-color: mistyrose; }
+.b-c-mediumorchid { border-color: mediumorchid; }
+.b-c-mediumslateblue { border-color: mediumslateblue; }
+.b-c-mediumturquoise { border-color: mediumturquoise; }
+.b-c-olivedrab { border-color: olivedrab; }
+.b-c-darkgoldenrod { border-color: darkgoldenrod; }
+.b-c-palegoldenrod { border-color: palegoldenrod; }
+.b-c-palegreen { border-color: palegreen; }
+.b-c-palevioletred { border-color: palevioletred; }
+.b-c-plum { border-color: plum; }
+.b-c-powderblue { border-color: powderblue; }
+.b-c-rebeccapurple { border-color: rebeccapurple; }
+.b-c-rosybrown { border-color: rosybrown; }
+.b-c-seagreen { border-color: seagreen; }
+.b-c-sienna { border-color: sienna; }
+.b-c-skyblue { border-color: skyblue; }
+.b-c-slateblue { border-color: slateblue; }
+.b-c-springgreen { border-color: springgreen; }
+.b-c-darkkhaki { border-color: darkkhaki; }
+.b-c-darkmagenta { border-color: darkmagenta; }
+.b-c-darkolivegreen { border-color: darkolivegreen; }
+.b-c-darkorchid { border-color: darkorchid; }
+.b-c-darkred { border-color: darkred; }
+.b-c-darksalmon { border-color: darksalmon; }
+.b-c-darkseagreen { border-color: darkseagreen; }
+.b-c-darkslateblue { border-color: darkslateblue; }
+.b-c-darkslategray { border-color: darkslategray; }
+.b-c-darkturquoise { border-color: darkturquoise; }
+.b-c-firebrick { border-color: firebrick; }
+.b-c-honeydew { border-color: honeydew; }
+.b-c-indianred { border-color: indianred; }
+.b-c-lightskyblue { border-color: lightskyblue; }
+.b-c-lightseagreen { border-color: lightseagreen; }
+.b-c-lightsalmon { border-color: lightsalmon; }
+.b-c-lightcoral { border-color: lightcoral; }
+.b-c-lavenderblush { border-color: lavenderblush; }
+.b-c-lemonchiffon { border-color: lemonchiffon; }
+.b-c-mediumblue { border-color: mediumblue; }
+.b-c-mediumaquamarine { border-color: mediumaquamarine; }
+.b-c-mediumorchid { border-color: mediumorchid; }
+.b-c-mediumslateblue { border-color: mediumslateblue; }
+.b-c-mediumspringgreen { border-color: mediumspringgreen; }
+.b-c-mediumvioletred { border-color: mediumvioletred; }
+.b-c-mediumseagreen { border-color: mediumseagreen; }
+.b-c-lightcyan { border-color: lightcyan; }
+.b-c-lightslategray { border-color: lightslategray; }
+.b-c-lightsteelblue { border-color: lightsteelblue; }
+.b-c-lightyellow { border-color: lightyellow; }
+.b-c-limegreen { border-color: limegreen; }
+.b-c-lavender { border-color: lavender; }
+.b-c-lawngreen { border-color: lawngreen; }
+.b-c-lightgoldenrodyellow { border-color: lightgoldenrodyellow; }
+.b-c-lightgreen { border-color: lightgreen; }
+.b-c-magenta { border-color: magenta; }
+.b-c-mediumseagreen { border-color: mediumseagreen; }
+.b-c-mediumspringgreen { border-color: mediumspringgreen; }
+.b-c-mediumturquoise { border-color: mediumturquoise; }
+.b-c-navajowhite { border-color: navajowhite; }
+.b-c-orchid { border-color: orchid; }
+.b-c-palegoldenrod { border-color: palegoldenrod; }
+.b-c-palegreen { border-color: palegreen; }
+.b-c-palevioletred { border-color: palevioletred; }
+.b-c-peachpuff { border-color: peachpuff; }
+.b-c-powderblue { border-color: powderblue; }
+.b-c-royalblue { border-color: royalblue; }
+.b-c-salmon { border-color: salmon; }
+.b-c-sandybrown { border-color: sandybrown; }
+.b-c-seagreen { border-color: seagreen; }
+.b-c-sienna { border-color: sienna; }
+.b-c-slateblue { border-color: slateblue; }
+.b-c-turquoise { border-color: turquoise; }
+.b-c-springgreen { border-color: springgreen; }
+.b-c-darkkhaki { border-color: darkkhaki; }
+.b-c-darkmagenta { border-color: darkmagenta; }
+.b-c-darkolivegreen { border-color: darkolivegreen; }
+.b-c-darkorchid { border-color: darkorchid; }
+.b-c-darkred { border-color: darkred; }
+.b-c-darksalmon { border-color: darksalmon; }
+
+
+/* 
+    Border Radius - Ranging from 5px to 100px
+    Feel free to add more sizes as needed 
+*/
+
+.b-r-5px { border-radius: 5px; }
+.b-r-10px { border-radius: 10px; }
+.b-r-15px { border-radius: 15px; }
+.b-r-20px { border-radius: 20px; }
+.b-r-25px { border-radius: 25px; }
+.b-r-30px { border-radius: 30px; }
+.b-r-35px { border-radius: 35px; }
+.b-r-40px { border-radius: 40px; }
+.b-r-45px { border-radius: 45px; }
+.b-r-50px { border-radius: 50px; }
+.b-r-55px { border-radius: 55px; }
+.b-r-60px { border-radius: 60px; }
+.b-r-65px { border-radius: 65px; }
+.b-r-70px { border-radius: 70px; }
+.b-r-75px { border-radius: 75px; }
+.b-r-80px { border-radius: 80px; }
+.b-r-85px { border-radius: 85px; }
+.b-r-90px { border-radius: 90px; }
+.b-r-95px { border-radius: 95px; }
+.b-r-100px { border-radius: 100px; }
+
+
+
+/* 
+    Border Radius - Ranging from 5% to 100%
+    Feel free to add more sizes as needed 
+*/
+
+.b-r-5p { border-radius: 5%; }
+.b-r-10p { border-radius: 10%; }
+.b-r-15p { border-radius: 15%; }
+.b-r-20p { border-radius: 20%; }
+.b-r-25p { border-radius: 25%; }
+.b-r-30p { border-radius: 30%; }
+.b-r-35p { border-radius: 35%; }
+.b-r-40p { border-radius: 40%; }
+.b-r-45p { border-radius: 45%; }
+.b-r-50p { border-radius: 50%; }
+.b-r-55p { border-radius: 55%; }
+.b-r-60p { border-radius: 60%; }
+.b-r-65p { border-radius: 65%; }
+.b-r-70p { border-radius: 70%; }
+.b-r-75p { border-radius: 75%; }
+.b-r-80p { border-radius: 80%; }
+.b-r-85p { border-radius: 85%; }
+.b-r-90p { border-radius: 90%; }
+.b-r-95p { border-radius: 95%; }
+.b-r-100p { border-radius: 100%; }
+
+.b-0{ border: 0; }
+.b-1px { border: 1px; }
+.b-2px { border: 2px; }
+.b-3px { border: 3px; }
+.b-4px { border: 4px; }
+.b-5px { border: 5px; }
+.b-6px { border: 6px; }
+.b-7px { border: 7px; }
+.b-8px { border: 8px; }
+.b-9px { border: 9px; }
+.b-10px { border: 10px; }
+.b-11px { border: 11px; }
+.b-12px { border: 12px; }
+.b-13px { border: 13px; }
+.b-14px { border: 14px; }
+.b-15px { border: 15px; }
+.b-16px { border: 16px; }
+.b-17px { border: 17px; }
+.b-18px { border: 18px; }
+.b-19px { border: 19px; }
+.b-20px { border: 20px; }
+
+
+
+
+
+

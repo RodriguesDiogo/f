@@ -1,0 +1,20 @@
+
+/* 
+    Apply your font for use in your project - Don't forget to link the Google Fonts in your HTML pages or download and add them to your project! 
+*/
+
+
+.f-main{ /*Main Font*/
+    font-family: 'Lilita One', cursive;
+}
+.f-secundary{ /*Secundary Font*/
+    font-family: 'Poiret One', cursive;
+}
+.f-highlight{ /*Highlight Font*/
+    font-family: 'Roboto', sans-serif;
+}
+
+
+/* 
+    Delete or add more fonts to customize your project. The current ones are just examples. 
+*/
